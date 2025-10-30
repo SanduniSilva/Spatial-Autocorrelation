@@ -7,3 +7,4 @@ Objectives:
  3. Providing a data-driven recommendation for the stake holders on the spatial
  dependency of the review scores.
  
+[View the Full Report](https://github.com/SanduniSilva/Spatial-Autocorrelation/blob/627d58d3906496deb34395ba369c047b807b693c/Analysis%20Report.pdf)
